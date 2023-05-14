@@ -1,6 +1,6 @@
 {
-    "homepage": "https://capofcode.github.io/react-weather-app",
     "name": "react-weather-app",
+    "homepage": "https://CapOfCode.github.io/react-weather-app",
     "private": true,
     "version": "0.0.0",
     "type": "module",
@@ -23,4 +23,4 @@
         "vite": "^4.2.0"
     },
     "server": {}
-}
+} 
